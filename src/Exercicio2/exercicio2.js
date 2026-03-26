@@ -1,3 +1,4 @@
+import './estilo.css';
 function calcularDesconto() {
   let valorCompra = Number(document.getElementById("valorCompra").value);
   let valorFinalElem = document.getElementById("valorFinal");

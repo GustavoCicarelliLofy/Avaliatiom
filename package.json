@@ -17,7 +17,9 @@
     "webpack-cli": "^7.0.2"
   },
   "scripts": {
-    "test": "jest",
-    "build": "webpack"
-  }
+  "test": "jest",
+  "build": "webpack",
+  "start": "node dist/bundle.js"
 }
+}
+

@@ -1,0 +1,17 @@
+{
+  "name": "avaliatiom",
+  "version": "1.0.0",
+  "description": "Nome: Gustavo Lofy, Gabriel Stofel, Lucas Luiz",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

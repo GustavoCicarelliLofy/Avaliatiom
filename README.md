@@ -1,2 +1,2 @@
 # Avaliatiom
-aaaaaaaaaaaaaaa
+Nome: Gustavo Lofy, Gabriel Stofel, Lucas Luiz 
